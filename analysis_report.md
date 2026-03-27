@@ -13,4 +13,17 @@ ________________________
 Technologies Used
 * Python
 * Pandas
-* NumPy 
+* NumPy
+
+Features
+_______________
+* Displays dataset information (head, tail, shape, columns)
+* Checks missing and duplicate values
+* Calculates:
+   * Total Revenue
+   * Best-Selling Product
+   * Average Sales
+   * Total Quantity Sold
+* Identifies:
+   * Highest revenue product
+   * Lowest revenue product
